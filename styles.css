@@ -1,0 +1,109 @@
+body {
+    color: white;
+    background-color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #FF00FF;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    
+}
+.Jab{
+    display: none;
+    font-size: 16px;
+}
+.message-1{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Road Rage', cursive;
+    color: black;
+    display: none;
+}
+
+.Uppercut{
+    display: none;
+    font-size: 16px;
+  
+}
+.keepGoing{
+    display:none;
+    font-size: 16px;
+}
+.Double-Hook{
+    display: none;
+    font-size: 16px;
+}
+.jabtwo{
+    display: none;
+    font-size: 16px;
+}
+.celebrate{
+    display:none;
+    font-size: 16px;
+}
+.reset{
+    display:none;
+}
+.firstImage {
+    height: 350px;
+}
+.SecondImage{
+    display: none;
+}
+.ThirdImage{
+    display:none;
+}
+.fourthImage{
+    display:none;
+}
+.fifthImage{
+    display:none;
+
+}
+.sixthImage{
+    display:none;
+}
+.seventhImage{
+    display:none;
+}
+.Calebwinning{
+    display:none;
+}
+.Canelowinning{
+    display:none;
+}
+.start-button {
+    height: 40px;
+    font-size: 16px;
+}
+.Body{
+    display:none;
+    font-size: 16px;
+}
+.jabthree{
+    display:none;
+    font-size: 16px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
